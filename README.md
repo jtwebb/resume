@@ -4,21 +4,39 @@
 >
 > https://linkedin.com/in/webb
 
-Full stack developer with an affinity for frontend development and 14 years’ experience in bringing ideas to life. Experienced in creating large web applications with React & Redux using RESTful APIs. Excels at problem solving and getting the job done. Motivated to never stop learning/improving for the love of writing the most readable, testable, maintainable code possible.
+Full stack developer with an affinity for backend development and 17 years’ experience in bringing ideas to life. Experienced in creating large web applications with React & Redux using RESTful APIs. Excels at problem-solving and getting the job done. Motivated to never stop learning/improving for the love of writing the most readable, testable, maintainable code possible.
 
 ***
 
 #### Technical Skills
-* Javascript (ES5/ES6)
+* Javascript
+* Node
 * React & React Native
 * Google Maps JS SDK
 * Angular & TypeScript
 * Unit testing
 * PHP
 * Android
-* C#
-* Java
 * Git
+
+***
+
+### Thought Industries - Boston
+Powering the Business of Learning
+
+#### Javascript Application Engineer - _2020-2022_
+#### Senior Javascript Application Engineer - _2022-Present_
+
+* Collaborated with a distributed team to add new features to the learning platform
+* Worked to improve developer experience by creating custom linting plugins, speeding up tests and other platform changes
+* Languages/Frameworks used: **Javascript**, **Ember**, **React**, **Node**, **CSS**, **SASS**
+
+
+***
+
+### Freelance - Tulsa
+#### Software Engineer - _2019-2020_
+Worked as a freelance web developer for overflow work and troubleshooting for various companies.
 
 ***
 
